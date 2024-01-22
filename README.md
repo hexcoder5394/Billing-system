@@ -63,4 +63,6 @@ This Sport Club Billing System is open-source software licensed under the
 
 # Links
 Visit my portfolio: [iamachintha](http://iamachintha.site)
+Visit my Linkedin profile: [Click here](https://www.linkedin.com/in/achintha-prasanna-b9a463268/)
+
 
