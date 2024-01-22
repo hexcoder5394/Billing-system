@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\bin\Release\nsj.exe.config
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\bin\Release\nsj.exe
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\bin\Release\nsj.pdb
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.Form1.resources
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.Form2.resources
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.Form3.resources
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.Properties.Resources.resources
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.exe
+C:\Users\Dell\Documents\HND\Assignments\Programming\New folder\nsj\nsj\obj\Release\nsj.pdb
